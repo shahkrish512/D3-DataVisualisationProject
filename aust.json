@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"gold",
                 "STATE_CODE": "1",
                 "STATE_NAME": "New South Wales"
             },
@@ -8166,6 +8167,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"blue",                
                 "STATE_CODE": "2",
                 "STATE_NAME": "Victoria"
             },
@@ -13586,6 +13588,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"yellow",
                 "STATE_CODE": "3",
                 "STATE_NAME": "Queensland"
             },
@@ -29590,6 +29593,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"green",
                 "STATE_CODE": "4",
                 "STATE_NAME": "South Australia"
             },
@@ -36374,6 +36378,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"pink",
                 "STATE_CODE": "5",
                 "STATE_NAME": "Western Australia"
             },
@@ -58142,6 +58147,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"brown",
                 "STATE_CODE": "6",
                 "STATE_NAME": "Tasmania"
             },
@@ -65230,6 +65236,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"brown",
                 "STATE_CODE": "7",
                 "STATE_NAME": "Northern Territory"
             },
@@ -79866,6 +79873,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"orange",
                 "STATE_CODE": "8",
                 "STATE_NAME": "ACT"
             },
@@ -80362,6 +80370,7 @@
         {
             "type": "Feature",
             "properties": {
+                "fill":"grey",
                 "STATE_CODE": "9",
                 "STATE_NAME": ""
             },
