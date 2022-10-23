@@ -1,0 +1,138 @@
+[
+    {
+        "location": "New South Wales",
+        "locationNo": 1,
+        "capital_city":"Sydney",
+        "coord": [
+            -33.865143,
+            151.209900
+        ],
+        "advisers_2019":"613",
+        "advisers_2020":"513",
+        "advisers_2021":"786",
+        "advisers_2022":"519",
+        "current_during_covid-19":"2431",
+        "ceased_during_covid-19":"1185",
+        "STATE_CODE": "1",
+        "STATE_NAME": "New South Wales"
+    },
+    {
+        "location": "Victoria",
+        "locationNo": 2,
+        "capital_city":"Melbourne",
+        "coord": [
+          -37.840935,
+          144.946457
+        ],
+        "advisers_2019":"438",
+        "advisers_2020":"490",
+        "advisers_2021":"769",
+        "advisers_2022":"480",
+        "current_during_covid-19":"2177",
+        "ceased_during_covid-19":"1117",                
+        "STATE_CODE": "2",
+        "STATE_NAME": "Victoria"
+    },
+    {
+        "location": "Queensland",
+        "locationNo": 3,
+        "capital_city":"Brisbane",
+        "coord": [
+          -27.470125,
+          153.021072
+        ],
+        "advisers_2019":"341",
+        "advisers_2020":"408",
+        "advisers_2021":"617",
+        "advisers_2022":"443",
+        "current_during_covid-19":"1809",
+        "ceased_during_covid-19":"1328",
+        "STATE_CODE": "3",
+        "STATE_NAME": "Queensland"    
+    },
+    {
+        "location": "South Australia",
+        "locationNo": 4,
+        "capital_city":"Adelaide",
+        "coord": [
+          -34.921230,
+          138.599503
+        ],
+        "advisers_2019":"142",
+        "advisers_2020":"123",
+        "advisers_2021":"199",
+        "advisers_2022":"114",
+        "current_during_covid-19":"578",
+        "ceased_during_covid-19":"244",
+        "STATE_CODE": "4",
+        "STATE_NAME": "South Australia"    
+    },
+    {
+        "location": "Western Australia",
+        "locationNo": 5,
+        "capital_city":"Perth",
+        "coord": [
+          -31.953512,
+          115.857048
+        ],
+        "advisers_2019":"190",
+        "advisers_2020":"180",
+        "advisers_2021":"259",
+        "advisers_2022":"175",
+        "current_during_covid-19":"804",
+        "ceased_during_covid-19":"408",
+        "STATE_CODE": "5",
+        "STATE_NAME": "Western Australia"    
+    },
+    {
+        "location": "Tasmania",
+        "locationNo": 6,
+        "capital_city":"Hobart",
+        "coord": [
+          -42.880554,
+          147.324997
+        ],
+        "advisers_2019":"35",
+        "advisers_2020":"14",
+        "advisers_2021":"35",
+        "advisers_2022":"22",
+        "current_during_covid-19":"106",
+        "ceased_during_covid-19":"40",
+        "STATE_CODE": "6",
+        "STATE_NAME": "Tasmania"
+    },
+    {
+        "location": "Northern Territory",
+        "locationNo": 7,
+        "capital_city":"Darwin",
+        "coord": [
+          -12.462827,
+          130.841782
+        ],
+        "advisers_2019":"1",
+        "advisers_2020":"8",
+        "advisers_2021":"2",
+        "advisers_2022":"4",
+        "current_during_covid-19":"15",
+        "ceased_during_covid-19":"6",
+        "STATE_CODE": "7",
+        "STATE_NAME": "Northern Territory"    
+    },
+    {
+        "location": "ACT",
+        "locationNo": 8,
+        "capital_city":"Canberra",
+        "coord": [
+          -35.282001,
+          149.128998
+        ],
+        "advisers_2019":"35",
+        "advisers_2020":"31",
+        "advisers_2021":"60",
+        "advisers_2022":"37",
+        "current_during_covid-19":"163",
+        "ceased_during_covid-19":"67",
+        "STATE_CODE": "8",
+        "STATE_NAME": "ACT"    
+    }
+]
