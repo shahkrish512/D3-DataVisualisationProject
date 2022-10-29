@@ -11,8 +11,8 @@
         "advisers_2020":"513",
         "advisers_2021":"786",
         "advisers_2022":"519",
-        "current_during_covid-19":"2431",
-        "ceased_during_covid-19":"1185",
+        "current_during_covid":"2431",
+        "ceased_during_covid":"1185",
         "STATE_CODE": "1",
         "STATE_NAME": "New South Wales"
     },
