@@ -72,8 +72,8 @@
         "locationNo": 5,
         "capital_city":"Perth",
         "coord": [
-          -31.953512,
-          115.857048
+          90,
+          820
         ],
         "advisers_2019":"190",
         "advisers_2020":"180",
