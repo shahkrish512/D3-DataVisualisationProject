@@ -21,8 +21,8 @@
         "locationNo": 2,
         "capital_city":"Melbourne",
         "coord": [
-          -37.840935,
-          144.946457
+          965,
+          995
         ],
         "advisers_2019":"438",
         "advisers_2020":"490",
@@ -38,8 +38,8 @@
         "locationNo": 3,
         "capital_city":"Brisbane",
         "coord": [
-          -27.470125,
-          153.021072
+          1220,
+          670
         ],
         "advisers_2019":"341",
         "advisers_2020":"408",
@@ -55,8 +55,8 @@
         "locationNo": 4,
         "capital_city":"Adelaide",
         "coord": [
-          -34.921230,
-          138.599503
+          780,
+          900
         ],
         "advisers_2019":"142",
         "advisers_2020":"123",
@@ -89,8 +89,8 @@
         "locationNo": 6,
         "capital_city":"Hobart",
         "coord": [
-          -42.880554,
-          147.324997
+          1040,
+          1150
         ],
         "advisers_2019":"35",
         "advisers_2020":"14",
@@ -106,8 +106,8 @@
         "locationNo": 7,
         "capital_city":"Darwin",
         "coord": [
-          -12.462827,
-          130.841782
+          540,
+          220
         ],
         "advisers_2019":"1",
         "advisers_2020":"8",
@@ -123,8 +123,8 @@
         "locationNo": 8,
         "capital_city":"Canberra",
         "coord": [
-          -35.282001,
-          149.128998
+          1095,
+          925
         ],
         "advisers_2019":"35",
         "advisers_2020":"31",
